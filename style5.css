@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(90deg, rgb(8, 67, 82) 0%, rgb(134, 7, 7) 100%);
+}
+.wrapper{
+    height: 760px;
+    width: 960px;
+    margin: 0 auto;
+    background: #000000;
+    color:blanchedalmond
+}
+div{
+    position: absolute;
+    right: 30%;
+    bottom: 17%;
+    color: aquamarine;
+    
+}

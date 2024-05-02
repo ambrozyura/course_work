@@ -1,0 +1,71 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.zagolovok{
+    color: rgb(50, 112, 42);
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+.wrapper{
+    height: 660px;
+    width: 960px;
+    margin: 0 auto;
+    background: #FFFFFF;
+    
+}
+.menu{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+.menu li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+     font-family:'Courier New', Courier, monospace ;
+     padding: 10px 20px;
+
+}
+ .a,.b{
+    color: #003cff;
+    right: 70%;
+}
+.g{
+    background-color: coral;
+}
+.inline{
+    display: inline;
+}
+.inline h1{
+
+}
+.inline a{
+    position: absolute;
+    color: #0eff2e;
+    margin-left: 60px;
+}
+.sidebear{
+    background-color: black;
+    color: #33ff00;
+}
+.photo{
+    float: left;
+}
+.a{
+    color: #d9ff00;
+}
+.sayt{
+    color: black;
+    list-style: disc;
+}
+.a  :active{
+    color:black ;
+}
+.uv{
+    right: 10px;
+}
+.zar{
+    right: 100px;
+}
